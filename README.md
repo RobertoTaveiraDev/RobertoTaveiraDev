@@ -60,7 +60,8 @@ Gosto de entender a lógica por trás das coisas e desenvolver soluções de for
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?RobertoTaveiraDev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RobertoTaveiraDev&show_icons=true&theme=tokyonight&count_private=true" />
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTaveiraDev&layout=compact&theme=tokyonight" />
 </p>
 
