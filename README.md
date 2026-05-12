@@ -57,12 +57,10 @@ Gosto de entender a lógica por trás das coisas e desenvolver soluções de for
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RobertoTaveiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertoTaveiraDev&layout=compact&langs_count=7&theme=tokyonight"/>
+<p align="left">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoTaveiraDev&theme=tokyonight" />
 </p>
 
 ---
