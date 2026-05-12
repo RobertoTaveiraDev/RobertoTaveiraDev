@@ -57,14 +57,6 @@ Gosto de entender a lógica por trás das coisas e desenvolver soluções de for
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoTaveiraDev&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Objetivo
 
 Meu objetivo é me tornar um desenvolvedor back-end profissional, trabalhando com sistemas escaláveis, APIs, integrações e soluções que realmente gerem valor.
