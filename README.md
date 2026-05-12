@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Roberto Alves Taveira Neto
 
-🚀 **Desenvolvedor Back-end em formação | Estudante de Engenharia de Software**  
+🚀 **Desenvolvedor Back-end em formação | Estudante de Análise e Desenvolvimento de Sistemas**  
 🇧🇷 Brasil
 
 Sou apaixonado por tecnologia, programação e desenvolvimento de sistemas.  
