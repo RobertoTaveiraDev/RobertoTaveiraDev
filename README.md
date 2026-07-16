@@ -13,8 +13,8 @@ Gosto de entender a lógica por trás das coisas e desenvolver soluções de for
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/RobertoTaveiraDev">
-    <img src="https://img.shields.io/badge/GitHub-ROBERTO-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/roberto-alves-taveira-neto-02573b350/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Taveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
