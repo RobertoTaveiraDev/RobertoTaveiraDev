@@ -14,7 +14,7 @@ Gosto de entender a lógica por trás das coisas e desenvolver soluções de for
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roberto-alves-taveira-neto-02573b350/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Taveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
